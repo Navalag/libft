@@ -8,7 +8,7 @@ This library is useful for all the future C projects in 42 school curriculum.
 
 Please find more information according this project [here](https://github.com/Navalag/libft/blob/master/libft.en.pdf).
 
-## How To Launch And Test:
+### How To Launch And Test:
 
 First clone git repository (type in console):
 ```
@@ -37,6 +37,6 @@ gcc [your files] libft.a
 
 **Enjoy :)**
 
-## Contact Info:
+### Contact Info:
 
 If you found mistake || bug || have any questions || suggestions, please feel free to contact me at a.galavan@icloud.com
